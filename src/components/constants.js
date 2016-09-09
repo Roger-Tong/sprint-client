@@ -1,0 +1,1 @@
+export const Socket = io('http://localhost:3000');
